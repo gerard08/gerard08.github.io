@@ -1,0 +1,23 @@
+[
+  {
+    "id": "0",
+    "image": "/assets/imgs/cpLogo.png",
+    "nom" : "Cultura Pràctica",
+    "anys" : "2003 - 2016",
+    "descripcio" : "Basic and primary education"
+  },
+  {
+    "id": "1",
+    "image": "/assets/imgs/vvLogo.png",
+    "nom" : "Vedruna Vall",
+    "anys" : "2016 - 2018",
+    "descripcio" : "High School with a specialization on Technology"
+  },
+  {
+    "id": "2",
+    "image": "/assets/imgs/uabLogo.png",
+    "nom" : "Universitat Autònoma de Barcelona",
+    "anys" : "2018 - 2022",
+    "descripcio" : "Computer Science Engineering"
+  }
+]
