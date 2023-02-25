@@ -5,11 +5,12 @@
     "empresa": "Roche Diagnostics",
     "nom": "Software Developer in Cybersecurity",
     "anys": "2022 - Actually",
-    "descripcio": "Development of a web application to manage user certificates",
+    "descripcio": "Development of an application to manage electronic certificates",
     "knowledge": [
-      "Deep knowledge of Angular framework",
-      "Knowledge about certificates lifecycle",
-      "Tools used to create and manage certificates"
+      "Understanding of Angular framework",
+      "Knowledge about C# and .NET framework",
+      "Knowledge about electronic certificates lifecycle",
+      "Experience with Docker"
     ]
   },
   {
@@ -18,8 +19,12 @@
     "empresa": "NTT Data",
     "nom": "Internship in data arquitecture department",
     "anys": "2021 - 2022",
-    "descripcio": "High School with a specialization on Technology",
-    "knowledge": ["lelele", "lalala"]
+    "descripcio": "Maintain and improve data processing applications",
+    "knowledge": [
+      "Learn about Java and the Eclipse environment",
+      "Experience in working and managing databases",
+      "Understanding how an Agile environment works"
+    ]
 
   }
 ]
