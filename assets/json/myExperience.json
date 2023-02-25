@@ -1,0 +1,25 @@
+[
+  {
+    "id": "0",
+    "image": "/assets/imgs/rocheLogo.png",
+    "empresa": "Roche Diagnostics",
+    "nom": "Software Developer in Cybersecurity",
+    "anys": "2022 - Actually",
+    "descripcio": "Development of a web application to manage user certificates",
+    "knowledge": [
+      "Deep knowledge of Angular framework",
+      "Knowledge about certificates lifecycle",
+      "Tools used to create and manage certificates"
+    ]
+  },
+  {
+    "id": "1",
+    "image": "/assets/imgs/nttLogo.jpg",
+    "empresa": "NTT Data",
+    "nom": "Internship in data arquitecture department",
+    "anys": "2021 - 2022",
+    "descripcio": "High School with a specialization on Technology",
+    "knowledge": ["lelele", "lalala"]
+
+  }
+]
